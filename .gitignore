@@ -1,0 +1,7 @@
+.gradle/
+.idea/
+app/.cxx
+proxy_core/.cxx/
+app/build
+proxy_tools/temp
+gradle/wrapper
